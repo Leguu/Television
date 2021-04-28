@@ -1,5 +1,4 @@
 /*
- * Asil Erturan (40164714)
  * COMP249
  * Assignment #4
  * 2021-04-24
